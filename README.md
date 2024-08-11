@@ -2,6 +2,13 @@
 
 InboxInspector is a simple Streamlit application that allows users to upload a CSV file of email addresses and query VirusTotal for domain reports on each domain represented in the email addresses.
 
+---
+
+> [!CAUTION]
+> You can try a [live demo](https://inboxinspector.streamlit.app/) of this application on Streamlit's cloud at the following link, however, I do not claim any responsibility for the safety or security of your API key or accuracy of results should you use the demo hosted on Streamlit's cloud, nor self-hosted variants of this example application. 
+
+---
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
