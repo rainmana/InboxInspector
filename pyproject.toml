@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "inboxinspector"
+version = "0.1.0"
+description = "A simple Streamlit application which allows a user to upload a simple CSV of email addresses and query VirusTotal for domain reports on each domain represented for each email."
+authors = ["Alec Akin <alecakin@protonmail.ch>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.37.1"
+requests = "^2.32.3"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
