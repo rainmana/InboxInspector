@@ -188,3 +188,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Disclaimers 
+**All opinions are my own and do not represent those of my employer.**
+
+**Any tools listed or linked here are for ethical, legal, authorized, and educational purposes only.**
+
+**You are responsible for the securtity of your API keys, information, data, and applications, etc.**
